@@ -1,0 +1,9 @@
+title: "Heliotics Documentation"
+description: "Documentation for Heliotics IoT Platform"
+baseurl: "/docs" # Path under your domain (if docs is a subfolder)
+url: "https://docs.heliotics.com" # Full URL of your site
+theme: "cayman" # Replace with your preferred theme
+markdown: "kramdown"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
