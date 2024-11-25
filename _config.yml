@@ -1,9 +1,0 @@
-theme: jekyll-theme-cayman
-title: "Heliotics Documentation"
-description: "Documentation for Heliotics IoT Platform"
-baseurl: "/" # Adjust this if your site is deployed in a subdirectory
-url: "https://heliotics.github.io/docs.heliotics.com/" # Your GitHub Pages URL
-markdown: "kramdown"
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
